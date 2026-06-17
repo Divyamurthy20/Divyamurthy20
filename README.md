@@ -14,10 +14,10 @@
 <!-- ABOUT ME -->
 ### 🚀 A little about me
 
-- 🔭 I'm an **AI/ML Developer** with hands-on experience in Python, Machine Learning, Deep Learning, and Computer Vision
-- 🌱 Currently exploring **Generative AI** and building smarter, more creative models
-- 👀 I enjoy teaching machines to "see" — Computer Vision is my happy place 👁️
-- ⚡ Fun fact: I debug neural networks the same way I debug life — one error at a time 😄
+-  I'm an **AI/ML Developer** with hands-on experience in Python, Machine Learning, Deep Learning, and Computer Vision
+-  Currently exploring **Generative AI** and building smarter, more creative models
+-  I enjoy teaching machines to "see" — Computer Vision is my happy place 
+-  Fun fact: I debug neural networks the same way I debug life — one error at a time 
 
 <br>
 
