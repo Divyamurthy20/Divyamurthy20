@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer+%40+Reintenspark+Technology;Computer+Vision%2C+NLP%2C+Generative+AI;RAG+pipelines+with+FAISS+%26+Mistral-7B;Cutting+manual+work+by+80%25+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer+%40;Computer+Vision%2C+NLP%2C+Generative+AI;RAG+pipelines+with+FAISS+%26+Mistral-7B;Cutting+manual+work+by+80%25+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,14 +16,16 @@
 
 > *"The best way to predict the future is to build it."*
 
-I'm a passionate **AI Engineer** on a mission to turn cutting-edge research into real-world impact.
-From training neural networks to deploying scalable ML pipelines — I live and breathe artificial intelligence.
+## Hi, I'm Divya 👋
 
--  Currently working on **[Your Current Project]**
--  Experimenting with **LLMs, Generative AI & Reinforcement Learning**
--  Always learning — right now deep-diving into **[Latest Tech/Paper You're Exploring]**
--  I believe AI should be **powerful, ethical, and accessible**
--  Fun fact: I've probably argued about model architectures more than I've slept
+I'm a passionate **AI Engineer** on a mission to turn cutting-edge research into real-world impact.
+From training neural networks to deploying scalable ML pipelines — I love building AI models.
+
+- Currently working on implementation of LangChain and LangGraph workflows
+- Building intelligent applications powered by LLMs and multimodal AI
+- Exploring Agentic AI, AI automation, and production-grade AI architectures
+- Passionate about turning AI concepts into practical solutions that solve real-world problems
+- Always learning and sharing my journey through projects and open-source contributions
 
 
 
@@ -69,30 +71,6 @@ From training neural networks to deploying scalable ML pipelines — I live and 
 <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=9ece6a" />
 </td></tr>
 </table>
-
-<br>
-
-### 🚀 Featured Projects
-
-**🎯 AI-Based Candidate Analysis System**
-Multimodal AI system (CV + NLP) for interview evaluation — generates transcripts, emotion labels, and behavioral insights, with a trust-scoring engine that improved recruiter decision speed by **40%**.
-`Computer Vision` `NLP` `CNN`
-
-**🔍 VectorIQ — RAG Search Engine**
-RAG-based semantic search system powered by FAISS embeddings and Mistral-7B, indexing **12K+ text segments** for fast similarity search.
-`RAG` `FAISS` `Hugging Face` `Mistral-7B`
-
-**❤️ Heart Disease Prediction System**
-End-to-end ML pipeline trained on clinical datasets for high-accuracy risk prediction, with visualization dashboards that cut analysis time by **30%**.
-`scikit-learn` `Pandas` `Matplotlib`
-
-**🎬 AI Casino — Video Augmentation Pipeline**
-Segmentation pipeline using SAM (Segment Anything Model) paired with a Stable Diffusion–based generative pipeline for background and table swapping — produced **3–5x synthetic video variations** from a single input.
-`SAM` `Stable Diffusion` `OpenCV`
-
-<p align="center"><sub>🎓 <b>Certifications:</b> AWS Generative AI (AWS Skill Builder) • Data Science (Internshala) • Python Technology Stack (Infosys Springboard) • Mathematics for Machine Learning (NPTEL)</sub></p>
-
-<br>
 
 ### 📊 GitHub Analytics
 
