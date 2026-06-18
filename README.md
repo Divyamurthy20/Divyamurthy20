@@ -1,116 +1,113 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Hi%20there,%20I'm%20Divya%20Sree%20Murthy%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyamurthy20&color=2980B9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b4261&height=170&section=header&text=Divya%20Sree%20Murthy&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Developer&descAlignY=58&descSize=18&descColor=7aa2f7" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2980B9&center=true&vCenter=true&width=600&lines=AI%2FML+Developer+%F0%9F%A4%96;Building+with+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Exploring+Generative+AI+%E2%9C%A8;Turning+Data+into+Decisions+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=560&height=40&lines=Building+with+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Exploring+Generative+AI+%E2%9C%A8;Turning+Data+into+Decisions+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
-<!-- ABOUT ME -->
-### 🚀 A little about me
-
--  I'm an **AI/ML Developer** with hands-on experience in Python, Machine Learning, Deep Learning, and Computer Vision
--  Currently exploring **Generative AI** and building smarter, more creative models
--  I enjoy teaching machines to "see" — Computer Vision is my happy place 
--  Fun fact: I debug neural networks the same way I debug life — one error at a time 
-
-<br>
-
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**AI / ML / Deep Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Generative AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyamurthy20&color=1a1b27&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <br>
 
-<!-- SOCIAL LINKS -->
-## 🌐 Connect With Me
+### 🧠 About Me
 
-<p align="left">
+```ts
+const divyaSreeMurthy: Developer = {
+  role: "AI/ML Developer",
+  experience: "0.6 years",
+  coreStack: ["Python", "TensorFlow", "PyTorch", "OpenCV"],
+  currentlyExploring: "Generative AI",
+  loves: "teaching machines to see — Computer Vision 👁️",
+  motto: "ship small, learn fast, iterate forever",
+};
+```
+
+<br>
+
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" />
+</td>
+</tr>
+<tr>
+<td><b>AI / ML / Deep&nbsp;Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Keras-1a1b27?style=for-the-badge&logo=keras&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7aa2f7" />
+</td>
+</tr>
+<tr>
+<td><b>Generative AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=bb9af7" />
+<img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge&logo=huggingface&logoColor=bb9af7" />
+<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=bb9af7" />
+</td>
+</tr>
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Google%20Colab-1a1b27?style=for-the-badge&logo=googlecolab&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=9ece6a" />
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyamurthy20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamurthy20&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamurthy20&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Divyamurthy20&theme=tokyonight&hide_border=true&background=1a1b27" width="98%" />
+</p>
+
+<br>
+
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyamurthy20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+<br>
+
+### 🌐 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/divya-sree-murthy-7a115524a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=e0af68" />
   </a>
   <a href="https://divyamurthy-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=e0af68" />
   </a>
 </p>
 
-<br>
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<p align="center"><i>Building intelligent systems, one model at a time.</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyamurthy20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamurthy20&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Divyamurthy20&theme=tokyonight&hide_border=true" width="98%" />
-</p>
-
-<br>
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyamurthy20&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-<!-- FOOTER -->
-## 🤝 Let's Connect
-
-I'm always open to collaborating on AI/ML and Computer Vision projects, or just talking shop about Generative AI. Reach out anytime!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/divya-sree-murthy-7a115524a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://divyamurthy-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-> 💡 *"Building intelligent systems, one model at a time."*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4261,100:1a1b27&height=100&section=footer" />
 </p>
