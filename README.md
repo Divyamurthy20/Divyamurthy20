@@ -14,45 +14,18 @@
 
 ### 🧠 About Me
 
-```ts
-const divyaSreeMurthy: AIEngineer = {
-  title: "AI/ML Developer @ Reintenspark Technology",
-  experience: "0.6 years",
-  education: "B.Tech CSE (AI & ML) — 2025",
-  focusAreas: ["Computer Vision", "NLP", "Generative AI"],
-  recentWin: "cut a 3hr/day manual workflow down to 30 min with AI automation",
-  exploring: "multi-agent RAG systems",
-};
-```
+> *"The best way to predict the future is to build it."*
 
-<br>
+I'm a passionate **AI Engineer** on a mission to turn cutting-edge research into real-world impact.
+From training neural networks to deploying scalable ML pipelines — I live and breathe artificial intelligence.
 
-### 💼 Experience
+-  Currently working on **[Your Current Project]**
+-  Experimenting with **LLMs, Generative AI & Reinforcement Learning**
+-  Always learning — right now deep-diving into **[Latest Tech/Paper You're Exploring]**
+-  I believe AI should be **powerful, ethical, and accessible**
+-  Fun fact: I've probably argued about model architectures more than I've slept
 
-**AI/ML Developer** · Reintenspark Technology Pvt. Ltd. — Bengaluru (Onsite)
-<sub>Dec 2025 – Present</sub>
 
-- Led development of AI-driven automation systems that cut manual company workload by **80%**
-- Built an automated email pipeline, reducing processing time from 3 hours/day to **30 minutes**
-- Shipped a document generation system producing **1000+ offer letters & certificates** every month
-- Built a CNN-based emotion detection model with speech-to-text pipelines for automated interview analysis, reducing recruiter screening effort by **40%**
-- Mentored 5+ interns through sessions on AI, RAG, ML, and DL
-
-<details>
-<summary><b>Earlier roles</b></summary>
-<br>
-
-**AI Engineer Intern** · NKB Playtech Pvt. Ltd. — Bengaluru (Onsite) · <sub>Oct 2025 – Dec 2025</sub>
-- Developed AI models using PyTorch and OpenCV for video-based applications
-- Handled data preprocessing, feature extraction, and model evaluation to improve performance
-
-**AI/ML Intern** · ExcelR (AICTE Approved) — Remote · <sub>May 2024 – Jul 2024</sub>
-- Built a CNN-based facial emotion recognition system on the FER-2013 dataset
-- Improved model generalization using augmentation, batch normalization, and dropout
-
-</details>
-
-<br>
 
 ### 🛠️ Tech Stack
 
