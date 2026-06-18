@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer+%40;Computer+Vision%2C+NLP%2C+Generative+AI;RAG+pipelines+with+FAISS+%26+Mistral-7B;Cutting+manual+work+by+80%25+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer;Computer+Vision%2C+NLP%2C+Generative+AI;RAG+pipelines+with+FAISS+%26+Mistral-7B;Cutting+manual+work+by+80%25+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 > *"The best way to predict the future is to build it."*
 
-## Hi, I'm Divya 👋
+## Hi, I'm Divya Murthy 👋
 
 I'm a passionate **AI Engineer** on a mission to turn cutting-edge research into real-world impact.
 From training neural networks to deploying scalable ML pipelines — I love building AI models.
 
-- Currently working on implementation of LangChain and LangGraph workflows
-- Building intelligent applications powered by LLMs and multimodal AI
+- Currently working on implementation of **LangChain** and **LangGraph** workflows
+- Building intelligent applications powered by **LLMs** and multimodal AI
 - Exploring Agentic AI, AI automation, and production-grade AI architectures
 - Passionate about turning AI concepts into practical solutions that solve real-world problems
 - Always learning and sharing my journey through projects and open-source contributions
