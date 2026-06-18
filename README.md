@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=560&height=40&lines=Building+with+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Exploring+Generative+AI+%E2%9C%A8;Turning+Data+into+Decisions+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=900&color=7aa2f7&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer+%40+Reintenspark+Technology;Computer+Vision%2C+NLP%2C+Generative+AI;RAG+pipelines+with+FAISS+%26+Mistral-7B;Cutting+manual+work+by+80%25+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,58 +15,109 @@
 ### 🧠 About Me
 
 ```ts
-const divyaSreeMurthy: Developer = {
-  role: "AI/ML Developer",
+const divyaSreeMurthy: AIEngineer = {
+  title: "AI/ML Developer @ Reintenspark Technology",
   experience: "0.6 years",
-  coreStack: ["Python", "TensorFlow", "PyTorch", "OpenCV"],
-  currentlyExploring: "Generative AI",
-  loves: "teaching machines to see — Computer Vision 👁️",
-  motto: "ship small, learn fast, iterate forever",
+  education: "B.Tech CSE (AI & ML) — 2025",
+  focusAreas: ["Computer Vision", "NLP", "Generative AI"],
+  recentWin: "cut a 3hr/day manual workflow down to 30 min with AI automation",
+  exploring: "multi-agent RAG systems",
 };
 ```
+
+<br>
+
+### 💼 Experience
+
+**AI/ML Developer** · Reintenspark Technology Pvt. Ltd. — Bengaluru (Onsite)
+<sub>Dec 2025 – Present</sub>
+
+- Led development of AI-driven automation systems that cut manual company workload by **80%**
+- Built an automated email pipeline, reducing processing time from 3 hours/day to **30 minutes**
+- Shipped a document generation system producing **1000+ offer letters & certificates** every month
+- Built a CNN-based emotion detection model with speech-to-text pipelines for automated interview analysis, reducing recruiter screening effort by **40%**
+- Mentored 5+ interns through sessions on AI, RAG, ML, and DL
+
+<details>
+<summary><b>Earlier roles</b></summary>
+<br>
+
+**AI Engineer Intern** · NKB Playtech Pvt. Ltd. — Bengaluru (Onsite) · <sub>Oct 2025 – Dec 2025</sub>
+- Developed AI models using PyTorch and OpenCV for video-based applications
+- Handled data preprocessing, feature extraction, and model evaluation to improve performance
+
+**AI/ML Intern** · ExcelR (AICTE Approved) — Remote · <sub>May 2024 – Jul 2024</sub>
+- Built a CNN-based facial emotion recognition system on the FER-2013 dataset
+- Improved model generalization using augmentation, batch normalization, and dropout
+
+</details>
 
 <br>
 
 ### 🛠️ Tech Stack
 
 <table>
-<tr>
-<td><b>Languages</b></td>
-<td>
+<tr><td><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" />
-</td>
-</tr>
-<tr>
-<td><b>AI / ML / Deep&nbsp;Learning</b></td>
-<td>
+</td></tr>
+<tr><td><b>Machine Learning</b></td><td>
+<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=7aa2f7" />
+</td></tr>
+<tr><td><b>Data Analysis & Viz</b></td><td>
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge&logoColor=7aa2f7" />
+</td></tr>
+<tr><td><b>Deep Learning</b></td><td>
 <img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Keras-1a1b27?style=for-the-badge&logo=keras&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=7aa2f7" />
+</td></tr>
+<tr><td><b>Computer Vision</b></td><td>
 <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=for-the-badge&logo=opencv&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7aa2f7" />
-</td>
-</tr>
-<tr>
-<td><b>Generative AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=bb9af7" />
+</td></tr>
+<tr><td><b>NLP & LLMs</b></td><td>
 <img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge&logo=huggingface&logoColor=bb9af7" />
-<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=bb9af7" />
-</td>
-</tr>
-<tr>
-<td><b>Tools & Platforms</b></td>
-<td>
-<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=9ece6a" />
-<img src="https://img.shields.io/badge/Google%20Colab-1a1b27?style=for-the-badge&logo=googlecolab&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/FAISS-1a1b27?style=for-the-badge&logoColor=bb9af7" />
+</td></tr>
+<tr><td><b>Generative AI</b></td><td>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-1a1b27?style=for-the-badge&logoColor=bb9af7" />
+<img src="https://img.shields.io/badge/Diffusers-1a1b27?style=for-the-badge&logoColor=bb9af7" />
+</td></tr>
+<tr><td><b>Backend & Deployment</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ece6a" />
+</td></tr>
+<tr><td><b>Tools & Platforms</b></td><td>
 <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=9ece6a" />
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=9ece6a" />
-<img src="https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=9ece6a" />
-</td>
-</tr>
+<img src="https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Kaggle-1a1b27?style=for-the-badge&logo=kaggle&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=9ece6a" />
+</td></tr>
 </table>
+
+<br>
+
+### 🚀 Featured Projects
+
+**🎯 AI-Based Candidate Analysis System**
+Multimodal AI system (CV + NLP) for interview evaluation — generates transcripts, emotion labels, and behavioral insights, with a trust-scoring engine that improved recruiter decision speed by **40%**.
+`Computer Vision` `NLP` `CNN`
+
+**🔍 VectorIQ — RAG Search Engine**
+RAG-based semantic search system powered by FAISS embeddings and Mistral-7B, indexing **12K+ text segments** for fast similarity search.
+`RAG` `FAISS` `Hugging Face` `Mistral-7B`
+
+**❤️ Heart Disease Prediction System**
+End-to-end ML pipeline trained on clinical datasets for high-accuracy risk prediction, with visualization dashboards that cut analysis time by **30%**.
+`scikit-learn` `Pandas` `Matplotlib`
+
+**🎬 AI Casino — Video Augmentation Pipeline**
+Segmentation pipeline using SAM (Segment Anything Model) paired with a Stable Diffusion–based generative pipeline for background and table swapping — produced **3–5x synthetic video variations** from a single input.
+`SAM` `Stable Diffusion` `OpenCV`
+
+<p align="center"><sub>🎓 <b>Certifications:</b> AWS Generative AI (AWS Skill Builder) • Data Science (Internshala) • Python Technology Stack (Infosys Springboard) • Mathematics for Machine Learning (NPTEL)</sub></p>
 
 <br>
 
@@ -95,6 +146,9 @@ const divyaSreeMurthy: Developer = {
   </a>
   <a href="https://divyamurthy-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=e0af68" />
+  </a>
+  <a href="mailto:divyasree202003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=e0af68" />
   </a>
 </p>
 
